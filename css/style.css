@@ -1,0 +1,59 @@
+.nav {
+    background-color: azure;
+    border-radius: 10px;
+}
+
+
+.nav> ul.class>.nav-list-item>a{
+    color: var(--white);
+    text-decoration: none;
+    font-size: 1rem;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h1 {
+text-align: center;
+color: rgb(113, 41, 41);
+} 
+
+h2 {
+ text-align: left;
+ color: rgb(42, 39, 226);
+ margin: 30px;
+ margin-top: 70px;
+} 
+
+#image {
+    width: 80px; height: 100px;
+     border-radius: 20px; 
+     float: left;
+     margin: 20px;
+     margin-top: 5px;
+}
+
+
+body {
+    background-color: rgb(181, 181, 212);
+}
+
+p {
+    text-align: left;
+    margin-right: 20px;
+    font-size: medium;
+    font-weight: bolder;
+
+}
+
+@media screen and (max-width: 992px) {
+    
+}
+
+footer {
+        padding: 1px;
+        background-color: #999;
+        font-style: italic;
+        text-align-last: center;
+        margin: auto;
+        margin-top: 0;        
+}
