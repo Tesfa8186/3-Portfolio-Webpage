@@ -13,7 +13,7 @@
 - This application ia a web browser App to access my portfolio and
   user could run it in any devices using the following link.
 
-- [The URL of GitHub Repository](http://127.0.0.1:5500/Tesfa-PortfolioWebpage/index.html#about)
+- [The URL of GitHub Repository](https://github.com/Tesfa8186/Tesfa-PortfolioWebpage)
 
 ## Usage
 
@@ -24,7 +24,7 @@ The use of this application is to access portfolio details online.
 - ![alt text](./image/My-Resume-Page1.png)
 - ![alt text](./image/My-Resume-Page2.png)
 
-- Email: tesfa1978@gmail.com & Github: Tesfa8186
+- My Email: tesfa1978@gmail.com & My Github: Tesfa8186
 
 ## Licence
 
