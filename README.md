@@ -25,7 +25,6 @@ The use of this application is to access portfolio details online.
 
 - ![alt text](./image/My-Resume-Page1.png)
 - ![alt text](./image/My-Resume-Page2.png)
-
 - My Email: tesfa1978@gmail.com & My Github: Tesfa8186
 
 ## Licence
